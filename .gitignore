@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+local_test/warehouse.duckdb
+local_test/output/
+raw_data/sales_raw.csv
